@@ -7,8 +7,8 @@
 + Верстка резиновая. До 768 карточки растягиваются на всю ширину страницы, после выстраиваются плиткой в зависимости от ширины экрана.
 
 ## Где посмотреть
-+ [Codesandbox](https://codesandbox.io/s/qsoft-test-task-build-crc9e)
-+ [Github-Pages](https://junfrontend.github.io/QSOFT-test-task/build/)
++ [Codesandbox](https://codesandbox.io/s/modest-murdock-51xho)
++ [Github-Pages](https://junfrontend.github.io/Amocrm-test-task/build)
 
 ## Что сделано дополнительно
 + Использовался sass.
